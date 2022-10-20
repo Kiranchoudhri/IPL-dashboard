@@ -1,0 +1,46 @@
+/* Write your CSS here */
+
+.latestMatchContainer {
+  padding: 16px 30px;
+  background-color: #0f172a;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  width: 100%;
+}
+
+.teamNameAndVenue {
+  color: #ffffff;
+}
+
+.teamName {
+  font-size: 24px;
+  margin-bottom: 16px;
+}
+
+.matchDate {
+  font-size: 20px;
+  margin-bottom: 14px;
+}
+.venueResult {
+  margin-bottom: 8px;
+}
+
+.teamLogo {
+  width: 140px;
+}
+
+.otherMatchDetails {
+  color: #ffffff;
+  text-align: right;
+}
+
+.typeOne {
+  font-size: 16px;
+}
+
+.manOfMatch {
+  font-size: 18px;
+}

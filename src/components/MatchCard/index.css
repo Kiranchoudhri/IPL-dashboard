@@ -1,0 +1,29 @@
+/* Write your CSS here */
+
+.matchCardContainer {
+  width: 400px;
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  color: #ffffff;
+  border-radius: 10px;
+  margin-right: 40px;
+  margin-bottom: 40px;
+  background-color: #1e293b;
+  padding: 10px;
+  text-align: center;
+}
+
+.logo {
+  width: 120px;
+}
+
+.teamName {
+  font-size: 30px;
+}
+
+.winOrLose {
+  font-size: 20px;
+}

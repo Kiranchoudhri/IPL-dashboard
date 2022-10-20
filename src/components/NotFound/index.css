@@ -1,0 +1,13 @@
+/* Write your CSS here */
+
+.notFoundContainer {
+  height: 100vh;
+  background-color: #0f172a;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.pageNotFoundTitle {
+  font-size: 50px;
+  color: #ffffff;
+}

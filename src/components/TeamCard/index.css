@@ -1,0 +1,29 @@
+/* Write your CSS here */
+
+.teamCardContainer {
+  background-color: #ffffff33;
+  padding: 10px;
+  border: 2px solid #ffffff;
+  border-radius: 12px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 400px;
+  height: 120px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+.teamLogos {
+  width: 70px;
+  /* margin-right: 16px; */
+}
+
+.teamNames {
+  color: #ffffff;
+  font-size: 20px;
+}
+
+.teamLink {
+  text-decoration: none;
+}
